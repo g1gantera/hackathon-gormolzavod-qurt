@@ -35,3 +35,7 @@ npm run check
 ## Материалы
 
 Логотип извлечён из предоставленного ТЗ. Шрифт Open Sans (SIL Open Font License). Изображения пенала и керамики — ранее согласованные AI-концепции. Hero — отдельная AI-визуализация пенала на прозрачном фоне. Файлы опубликованного сайта находятся в dist/.
+
+## Presentation update
+
+The public interface uses clean promotional copy without demo badges and guidance banners. The implementation remains browser-local; no backend, SMS verification, real prize fulfillment, or customer database was added. The example code is shown only in the code-entry field. q.club mug and sticker-pack imagery was generated for this revision. Prize cards keep images above descriptions at all viewport sizes.
