@@ -10,6 +10,10 @@ npm start
 
 Открыть http://localhost:5173. Сборка и npm-зависимости не требуются, нужен Python 3. Для проверок нужен Node.js 20+ (браузерный сценарий использует встроенный WebSocket Node.js 22+).
 
+## Публикация на GitHub Pages
+
+Workflow публикует `website/dist` на GitHub Pages при каждом push в ветку `website/promo-demo`. В настройках репозитория откройте **Settings → Pages** и выберите **GitHub Actions** в разделе **Build and deployment → Source**. После первого успешного запуска адрес сайта появится в **Settings → Pages** и в результате workflow.
+
 ## Возможности
 
 - Адаптивная главная страница с пеналом 120 г, шагами участия, концепциями подарков, продуктом и FAQ.
