@@ -12,7 +12,7 @@ npm start
 
 ## Публикация на GitHub Pages
 
-Workflow публикует `website/dist` на GitHub Pages при каждом push в ветку `website/promo-demo`. В настройках репозитория откройте **Settings → Pages** и выберите **GitHub Actions** в разделе **Build and deployment → Source**. После первого успешного запуска адрес сайта появится в **Settings → Pages** и в результате workflow.
+GitHub Pages публикует содержимое папки `docs/` в корне репозитория из ветки `website/promo-demo`. Источник публикации — **Deploy from a branch**, папка — **`/docs`**. При обновлении сайта скопируйте содержимое `website/dist/` в `docs/`, затем отправьте изменения в эту ветку. Адрес сайта появится в **Settings → Pages** после публикации.
 
 ## Возможности
 
