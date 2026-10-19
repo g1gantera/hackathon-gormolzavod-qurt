@@ -1,0 +1,1 @@
+{"name":"gormolzavod-qurt-promo","private":true,"version":"1.0.0","scripts":{"start":"python3 -m http.server 5173 --directory dist","check":"node --check dist/app.js && node --test tests/model.test.mjs"},"type":"module"}
