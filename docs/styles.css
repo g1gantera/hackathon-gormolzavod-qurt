@@ -3,3 +3,35 @@
 .header{top:24px}.hero{padding-top:155px}.pack-label{bottom:-25px;right:10px;transform:rotate(-5deg);background:#fff176;border-radius:12px 30px 12px 30px;padding:15px 24px;box-shadow:5px 6px 0 #173779;max-width:300px}.pack-label>span{font-size:19px;font-weight:850;line-height:1.3;max-width:none;letter-spacing:-.5px}.hero-bottom{justify-content:flex-start}.steps{gap:38px}.steps article{display:flex;flex-direction:column}.step-visual{position:relative;height:225px;margin:10px 0 22px;width:100%;flex:none}.step-photo img,.code-location>img{width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 12px 10px #17377913)}.step-photo{transform:rotate(-6deg)}.code-location>img{transform:rotate(8deg) scale(.92)}.code-marker{position:absolute;top:29%;left:47%;font-size:13px;line-height:1;font-weight:800;letter-spacing:1px;background:#fffdfc;border:2px solid #0861c6;border-radius:6px;padding:9px;transform:rotate(8deg);box-shadow:0 6px 10px #17377915}.code-marker i{position:absolute;width:34px;height:30px;border-left:2px solid #f84764;border-bottom:2px solid #f84764;left:-25px;bottom:-25px}.code-marker i:after{content:'';width:7px;height:7px;border-right:2px solid #f84764;border-top:2px solid #f84764;position:absolute;bottom:-4px;right:0;transform:rotate(45deg)}.reward-stack{isolation:isolate}.reward-stack img{position:absolute;width:45%;height:80%;object-fit:contain;filter:drop-shadow(0 8px 9px #17377920)}.reward-stack img:nth-child(1){left:0;top:15%;transform:rotate(-14deg);z-index:1}.reward-stack img:nth-child(2){left:28%;top:0;z-index:3;transform:rotate(3deg)}.reward-stack img:nth-child(3){right:0;top:20%;width:46%;height:65%;object-fit:cover;object-position:80%;border:6px solid #fffdfc;border-radius:14px;transform:rotate(13deg);z-index:2}.gifts-heading{display:block}.prize-grid{align-items:stretch}.prize,.prize.featured{display:flex;flex-direction:column;transform:none;padding:24px;min-width:0}.prize-count{align-self:flex-start;flex:none}.prize-visual,.prize .gift-photo{height:250px;min-height:250px;width:100%;margin:16px 0 24px;overflow:hidden;flex:none}.gift-photo img{width:100%;height:100%;max-height:100%;object-fit:contain;mix-blend-mode:normal;border-radius:12px}.prize:last-child .gift-photo img{object-fit:cover;object-position:center}.prize h3{margin:0;line-height:1.3}.prize p{margin:10px 0 2px;line-height:1.7}.gifts .button{margin-top:8px}.product-image img{width:100%}@media(min-width:1500px){.prize-visual,.prize .gift-photo{height:310px;min-height:310px}.step-visual{height:265px}}@media(max-width:760px){.header{top:14px}.hero{padding-top:108px}.pack-label{bottom:-10px;right:15px;padding:10px 16px;box-shadow:3px 4px 0 #173779;max-width:210px}.pack-label>span{font-size:14px;line-height:1.4}.hero-art{margin-bottom:35px}.steps{gap:32px}.steps article{padding:20px 0 0;min-height:0}.step-number{position:static;display:block}.step-visual{position:relative;left:auto;top:auto;height:210px;margin:5px 0 20px}.steps h3{margin-top:0}.steps p{max-width:100%}.code-marker{font-size:12px}.prize,.prize.featured{display:flex;padding:22px}.prize-visual,.prize .gift-photo{height:230px;min-height:230px;margin:12px 0 22px}.prize h3{font-size:22px;align-self:auto}.prize p{font-size:13px;margin:10px 0 0}.prize-count{font-size:11px}.prize:last-child .gift-photo img{object-fit:contain}.reward-stack{max-width:330px;align-self:center}.product{padding-top:50px}}
 
 @media(min-width:761px) and (max-width:900px){.header nav{font-size:13px;gap:14px}}
+
+/* The supplied 60 g pack photograph keeps its original artwork and lettering.
+   Crop only its backdrop, keeping the full wrapper and both sealed ends visible. */
+.hero-art{margin-left:0;width:110%;height:460px}
+.hero-pack,.step-photo img,.code-location>img,.product-image img{
+  width:100%;height:auto;aspect-ratio:2.35;object-fit:cover;object-position:center 65%;
+  border-radius:22px;background:#031331;
+}
+.hero-pack{max-width:100%;transform:rotate(-5deg);filter:none;box-shadow:0 28px 50px #061a4a40}
+.round-note{top:0;right:3%}
+.pack-label{bottom:12px;right:12px}
+.spark-one{bottom:8%;left:5%}
+.spark-two{top:15%;right:25%}
+.step-photo{transform:none}
+.step-photo img,.code-location>img{height:auto;transform:none;filter:none;border-radius:14px}
+.product-image img{box-shadow:0 18px 40px #17377920}
+@media(min-width:761px) and (max-width:1100px){
+  .hero-art{width:100%;height:380px;margin-left:0}
+  .hero{grid-template-columns:1.05fr 1fr;gap:18px}
+}
+@media(max-width:760px){
+  .hero-art{width:100%;height:330px;margin:24px 0 20px}
+  .hero-pack{width:100%;max-height:none;object-fit:cover;border-radius:16px}
+  .round-note{top:0;right:0}
+  .pack-label{bottom:0;right:5px}
+  .spark-one{bottom:2%;font-size:48px}
+  .spark-two{top:13%;right:29%;font-size:30px}
+  .step-photo,.code-location{height:auto;min-height:155px;margin:18px 0 22px}
+}
+.prize:last-child .merch-pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));grid-template-rows:repeat(2,minmax(0,1fr));gap:4px}
+.prize:last-child .merch-pair img{position:static;width:100%;height:100%;max-height:100%;object-fit:contain;border:0;border-radius:0;box-shadow:none}
+.reward-stack img:nth-child(3){object-fit:contain;object-position:center}
