@@ -1,0 +1,15 @@
+Промпты финальной картонной версии. Инструмент: Imagegen.
+Ранние пробы пластикового пакета исключены из финального комплекта.
+Скриншоты пользовательского интерфейса инструмента не доступны: этот файл не заменяет материал 08.
+
+1. Генерация изображения продукта (в финале после исправления №2):
+Photorealistic studio food photograph for a Kazakh smoked kurt cheese packaging label. A tight small pile of 7 irregular dry dense smoked kurt cheese balls, approx 2-3 cm diameter, matte pale cream with subtle golden brown smoked surface, traditional dried salted curd texture, not puff pastry, not bread rolls, no hollow interiors. Isolated on solid warm ivory background #FCF8F3. Soft natural light, front three-quarter close up. No plates, no props, no packaging, no letters, no logos. Landscape image.
+
+2. Исправление текстуры продукта (вошло в финал):
+Correct this food product image. The current items look like bread and are wrong. Replace all of them with SMALL HARD SOLID SPHERES OF DRIED SALTED CURD, Kazakh smoked qurt. Surface must be mostly SMOOTH MATTE LIGHT TAN, tiny fine chalky granules only, almost like smooth round beige pebbles. Completely REMOVE all baked cracks, brown toasted patches, porous bread texture, crust flakes and pastry shape. Uniform warm tan smoking color, dense compact round balls, 5 balls in low pile, on same ivory background. Photorealistic, no text.
+
+3. Мокап картонной коробки (вошёл в финал, референс — макет лицевой стороны):
+Create a photorealistic packaging mockup in TWO equally sized panels. Use the supplied exact front label design faithfully on a RECTANGULAR PAPERBOARD CARTON BOX (rigid flat planes, folded corners, matte printed cardboard texture), 140 mm wide, 200 mm high, 45 mm deep, 120g. NOT a pouch, NO plastic, NO transparent window: the cheese balls on the front are a PRINTED PHOTO. Preserve the supplied official logo and Kazakh and Russian lettering, ivory upper part, blue lower part, QR zone. Left panel: single closed carton three-quarter front view on neutral warm ivory studio table, show front and narrow right side, soft daylight. Right panel: several identical cartons upright on a realistic grocery shelf, with generic neighboring unbranded dairy snack packages, no readable pricing. Carton right side plain sky-blue with thin blue smoke motif. Show a small ivory PAPER tamper seal across top flap, no plastic shrinkwrap. Elegant clean realistic product design. No text outside boxes, no invented eco certification symbols.
+
+Codex: исходный запрос пользователя «Технические и дизайнерские задачи нужно их выполнить»; уточнение «их нету, но нужно поменять упаковку например не из пластика».
+Результат Codex: редактируемые SVG, текст маркировки, макеты экранов, спецификации и схема конструкции. Ручная доработка пользователем не выполнялась.

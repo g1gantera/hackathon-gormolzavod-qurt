@@ -1,0 +1,452 @@
+[
+  {
+    "path": "sketch/06_qorzhyn_120g/01_qorzhyn_concept.png",
+    "sha256": "976202c06f99a2467d7b02442f2e6501d5c9e0b990d3c22704baa0a7b9c89587",
+    "bytes": 2332310
+  },
+  {
+    "path": "sketch/06_qorzhyn_120g/README.txt",
+    "sha256": "9902f16aa6b187858b08329765138a61528db758151d7e7927e127eea157091c",
+    "bytes": 3979
+  },
+  {
+    "path": "sketch/06_qorzhyn_120g/prompt.txt",
+    "sha256": "d333fc5ead78759171d87a547e648dc80ca107aa784de30494bdf0b5adf9447d",
+    "bytes": 4132
+  },
+  {
+    "path": "sketch/07_vacuum_120g/01_dorba_vacuum_120g.png",
+    "sha256": "b4dfe000410f462a83e0b39caee54f3e38385fc04bf0037a7dc22cc9fab3db04",
+    "bytes": 2325794
+  },
+  {
+    "path": "sketch/07_vacuum_120g/02_open_pack_120g.png",
+    "sha256": "c7073858b19974f3f5b8bef7d53cdd39621606b3140d37628533d77a801c5013",
+    "bytes": 2277873
+  },
+  {
+    "path": "sketch/07_vacuum_120g/02_open_pack_prompt.txt",
+    "sha256": "4bcc3444c776c7780ae59f5d8eb44174b5faf7573136cba59b48774f654f7be8",
+    "bytes": 1779
+  },
+  {
+    "path": "sketch/07_vacuum_120g/README.txt",
+    "sha256": "2c22f5db7d99d37276d725abe18bdded393e4310c6f8f5b4eac972a6aac56cd4",
+    "bytes": 1994
+  },
+  {
+    "path": "sketch/07_vacuum_120g/prompt.txt",
+    "sha256": "18ab11706714b0fbbc3d96da388b87e9869f9af1cc9be2961a29f1fc32ef545c",
+    "bytes": 4319
+  },
+  {
+    "path": "sketch/07_vacuum_120g/refinement_prompt.txt",
+    "sha256": "a08112625544e625acca2709550e7173bff0c9792cb7899b1334c8ec1b824892",
+    "bytes": 1248
+  },
+  {
+    "path": "sketch/08_kulek_120g/01_kulek_concept.png",
+    "sha256": "630ba5a30c1d160971476f6a293bc47322df6e3eb37ca6cef86dfda3a12b2b0a",
+    "bytes": 2363118
+  },
+  {
+    "path": "sketch/08_kulek_120g/README.txt",
+    "sha256": "985b492423e28834beb931085ba9f8a5987fa1a72d8b6f079078a1f4b987120a",
+    "bytes": 1042
+  },
+  {
+    "path": "sketch/08_kulek_120g/prompt.txt",
+    "sha256": "11ece32f248cae6ebd39161246cb9c3e975797022e3f5cfcde4aba6daef5838f",
+    "bytes": 3880
+  },
+  {
+    "path": "technical/carton_120g/00_review.pdf",
+    "sha256": "d455530faa656cb93d4e18fb0505e0baf3826b914ee7980f9fdce3030b12cba1",
+    "bytes": 29764
+  },
+  {
+    "path": "technical/carton_120g/00_review.png",
+    "sha256": "20d31923736dbcbe3f963b39b0d560245f88c764fa78a446defaad050855444a",
+    "bytes": 581115
+  },
+  {
+    "path": "technical/carton_120g/00_Обзор.pdf",
+    "sha256": "1fd2a260c1f3ca8c9d291a2bedba7193ea59914b8ebf353e40c55a32bf262d0c",
+    "bytes": 6424820
+  },
+  {
+    "path": "technical/carton_120g/01_technical_spec.pdf",
+    "sha256": "645bb695327ab9d8a5e35b174d11b81095973886b45c6df9d58e61395adef0db",
+    "bytes": 29266
+  },
+  {
+    "path": "technical/carton_120g/01_technical_spec.png",
+    "sha256": "7feaa0f538f0ad67b4145378378b10f27e412a3e76e74d4e570c30e24b7d40cc",
+    "bytes": 609760
+  },
+  {
+    "path": "technical/carton_120g/02_material_validation.pdf",
+    "sha256": "a2aeb1464c6db044ccb3b45c0608bffe40ebc903f3222e20de2196617faeae7a",
+    "bytes": 26236
+  },
+  {
+    "path": "technical/carton_120g/02_material_validation.png",
+    "sha256": "f1648162baad9a116aad21051876beafd2c9a521ffd1fe002796cfd60d8b085f",
+    "bytes": 688593
+  },
+  {
+    "path": "technical/carton_120g/03_back_120g.pdf",
+    "sha256": "8e6dc01b50fc1d0f55e11c2b09234be35cd01e039b9e2a8d80eea0cdea350b65",
+    "bytes": 29913
+  },
+  {
+    "path": "technical/carton_120g/03_back_120g.png",
+    "sha256": "9b77348ade76064f0f752fc6353a52d8c741695b63be78010e4f8b3b3e8a5003",
+    "bytes": 438287
+  },
+  {
+    "path": "technical/carton_120g/03_construction.pdf",
+    "sha256": "afb328a825d115917498bbd1b7ec7fd1971327a6ff4f850f48a5e04c72893067",
+    "bytes": 22946
+  },
+  {
+    "path": "technical/carton_120g/03_construction.png",
+    "sha256": "09f6361a8d136d04e4208167337b3205b25696c6ac1e2a5d1fd0b4d694aad987",
+    "bytes": 412448
+  },
+  {
+    "path": "technical/carton_120g/03_front_120g.pdf",
+    "sha256": "ad8400647ddd4f4314626d69f31598037467ffcd50c780e95962ab1deb28773c",
+    "bytes": 2967868
+  },
+  {
+    "path": "technical/carton_120g/03_front_120g.png",
+    "sha256": "955400be4855215ea8bac94c797861cbccb406b6c5e56afe4d393c9dfd8ddf58",
+    "bytes": 779125
+  },
+  {
+    "path": "technical/carton_120g/04_mockups.pdf",
+    "sha256": "07e4d3d41fb3efe207bdf7f992547ea2f7f0e9779d79ae66d6b988f780af9e7f",
+    "bytes": 3063382
+  },
+  {
+    "path": "technical/carton_120g/04_mockups.png",
+    "sha256": "98fec5d0faf86e72f705501daae34a5273365469db3e4ff8fdd0d5fdd37b1161",
+    "bytes": 5009006
+  },
+  {
+    "path": "technical/carton_120g/05_journey.pdf",
+    "sha256": "d68614312e76168e31cc7d915492d1ab6e4b480795b08c9106486a252e522fa8",
+    "bytes": 24665
+  },
+  {
+    "path": "technical/carton_120g/05_journey.png",
+    "sha256": "74f46b1248b45bfc4011ff332716fd7d9093d11ccb33d5058a2170af1f2e5bfb",
+    "bytes": 181114
+  },
+  {
+    "path": "technical/carton_120g/05_screens.pdf",
+    "sha256": "2722edaf2c1b1ebd7acc1d131e3cceef1090db530652eb3bf6637a9202949a47",
+    "bytes": 194395
+  },
+  {
+    "path": "technical/carton_120g/05_screens.png",
+    "sha256": "85c77e4f413531e423a2e0e9f757a93628ed3fb830d072d84a3f3d57db385bda",
+    "bytes": 782333
+  },
+  {
+    "path": "technical/carton_120g/05_service_spec.pdf",
+    "sha256": "ac0a5f162ce097fef75c0834ef70e656caa4aed932341b8c5dcf386cc6786f3e",
+    "bytes": 36282
+  },
+  {
+    "path": "technical/carton_120g/05_service_spec.png",
+    "sha256": "704b08aba2f1bf2d56df5940bb443a97c198a389413e276b8c4c2ca51e5e813d",
+    "bytes": 679512
+  },
+  {
+    "path": "technical/carton_120g/07_design_prompts.txt",
+    "sha256": "cafe51cf3de6726f44bbef5053b7d8e1aca3466a322dad27557ee5cbcaba59a0",
+    "bytes": 3398
+  },
+  {
+    "path": "technical/carton_120g/AI_process.txt",
+    "sha256": "72813a9bb48796998fa366d231209afae03756574d3b840fdd35bf6846f332c9",
+    "bytes": 855
+  },
+  {
+    "path": "technical/carton_120g/README.txt",
+    "sha256": "7f63ca243b69794f5e6568858b1ed499ef3ecc0ebe1f40743e0ea705c099d98c",
+    "bytes": 911
+  },
+  {
+    "path": "technical/carton_120g/assets/box_mockup.png",
+    "sha256": "83797d1989b1511bddbe9bde988083d8bf5ba8569d4bd4daa57c27c1391ffaf1",
+    "bytes": 2098811
+  },
+  {
+    "path": "technical/carton_120g/assets/food.png",
+    "sha256": "e5f5c71c0ea970f02ec3fa75733d93cbd06241e24fd132c6d0a3a662083cbe3a",
+    "bytes": 2171278
+  },
+  {
+    "path": "technical/carton_120g/assets/logo.png",
+    "sha256": "297435193e600532ae8f2c9e6a65bc5b19999fff857d10bf65f28ec66a1e9e7c",
+    "bytes": 38302
+  },
+  {
+    "path": "technical/carton_120g/assets/qr.png",
+    "sha256": "7ff2cf6fb487ec1056d075ac4b06667ad4f01a4b95c9c254cf8a4477df8d1c0d",
+    "bytes": 535
+  },
+  {
+    "path": "technical/carton_120g/source/00_review.svg",
+    "sha256": "7e97c4a1a52bdb76b59257d96f8d07b2f61188b93557ef9182c6955f2776e1b4",
+    "bytes": 5644
+  },
+  {
+    "path": "technical/carton_120g/source/01_technical_spec.svg",
+    "sha256": "6ee4aeb8cf244d2d23de773c8d45ca54d6fe7f584a2e9c7cac340f82d78d6819",
+    "bytes": 5831
+  },
+  {
+    "path": "technical/carton_120g/source/02_material_validation.svg",
+    "sha256": "044f951d40ce8936e55a99b4ac6c9c80875a6eeafb0937b1f38232c7bd3437fe",
+    "bytes": 6088
+  },
+  {
+    "path": "technical/carton_120g/source/03_back_120g.svg",
+    "sha256": "befcbcdb30dd46f7dc8b7ce4372e3c59506919ed3bc6d08fb99400f1e9d74acb",
+    "bytes": 5821
+  },
+  {
+    "path": "technical/carton_120g/source/03_construction.svg",
+    "sha256": "d39c254b2e84d66609ea0ee3c54d9dd435800865c15502d568fc832f3f60826e",
+    "bytes": 5112
+  },
+  {
+    "path": "technical/carton_120g/source/03_front_120g.svg",
+    "sha256": "15c5b4f8414add640798507492871b7ff7418811aaa5b2fac0558d0bd0ab02e5",
+    "bytes": 2948647
+  },
+  {
+    "path": "technical/carton_120g/source/04_mockups.svg",
+    "sha256": "4a4783178847303bd908d2012c8756ba9db3f8424f5cf10caa64c9930e848ce5",
+    "bytes": 2799304
+  },
+  {
+    "path": "technical/carton_120g/source/05_journey.svg",
+    "sha256": "146c5fd1a5b00f6596b441b5d658347441417386612f0dfae8c9c9cfd81e0018",
+    "bytes": 3880
+  },
+  {
+    "path": "technical/carton_120g/source/05_screen_01.svg",
+    "sha256": "8fc72d2da855bedc6ddae67b35cd77b4409a19149dfa3d99fd5655c2668ebb2c",
+    "bytes": 52891
+  },
+  {
+    "path": "technical/carton_120g/source/05_screen_02.svg",
+    "sha256": "e4ab465a9da4948ee49cd42e68291e9e59b74aa44e23adf8d5f399a96235244b",
+    "bytes": 53718
+  },
+  {
+    "path": "technical/carton_120g/source/05_screen_03.svg",
+    "sha256": "e650f2f09addb488a0da08166e47e6d6157346e3ea2bf950b0091ee569ea131f",
+    "bytes": 53350
+  },
+  {
+    "path": "technical/carton_120g/source/05_screen_04.svg",
+    "sha256": "360914efb21191fd5f3cd2ea1e489fe394b0dc456df404cd820674cfb4b35c75",
+    "bytes": 53287
+  },
+  {
+    "path": "technical/carton_120g/source/05_screen_05.svg",
+    "sha256": "f0e8b954866c70c510d2b34c72011d08edbe5dcf81ec24191e0fb3ae55129492",
+    "bytes": 53506
+  },
+  {
+    "path": "technical/carton_120g/source/05_screens.svg",
+    "sha256": "121784b15e330c3be75c3ec023320fbefd346c9ab4e94e09e4c558d5d0a8d547",
+    "bytes": 266603
+  },
+  {
+    "path": "technical/carton_120g/source/05_service_spec.svg",
+    "sha256": "8d853b4a27623cd1b0646a8bf56ed7675b954d8c277d792750ece0f9ff93aa31",
+    "bytes": 6441
+  },
+  {
+    "path": "technical/carton_120g/source/OpenSans.ttf",
+    "sha256": "36643644f318a812aab2d2ed3bb98f8cf0872527f835fe9398d95fe6b9adb878",
+    "bytes": 532636
+  },
+  {
+    "path": "technical/vacuum_120g/00_Технический_комплект.pdf",
+    "sha256": "29b483620527eb8eed6114aeb4577e06061d8a9ed65f88d0a192fdc8af461204",
+    "bytes": 30119
+  },
+  {
+    "path": "technical/vacuum_120g/01_Маркировка_из_ТЗ.pdf",
+    "sha256": "fda385677c6023086e7e84b07a4656ae74ab2a318edd4af4ada71ff4207a18c9",
+    "bytes": 24302
+  },
+  {
+    "path": "technical/vacuum_120g/03_back.pdf",
+    "sha256": "89825be15560e5fd096d685af0640054a64abc83c6304d3e3a5ef3db3c488907",
+    "bytes": 35209
+  },
+  {
+    "path": "technical/vacuum_120g/03_construction.pdf",
+    "sha256": "4352664cef58c0abce5721f2db0a08f2d3691763b549781e1d86166cb24be93c",
+    "bytes": 27666
+  },
+  {
+    "path": "technical/vacuum_120g/03_front.pdf",
+    "sha256": "e7c918e72ac0cbc509375b78c2f516df3af854eab34fe93c3fa87aa8a9718b5b",
+    "bytes": 2971321
+  },
+  {
+    "path": "technical/vacuum_120g/04_Мокапы.pdf",
+    "sha256": "e11e5791567fbf25bf8176c56d0538efafce6b3b6e299a93b51c423d3d81cf9c",
+    "bytes": 7881001
+  },
+  {
+    "path": "technical/vacuum_120g/09_Производство.pdf",
+    "sha256": "beee7cd1dce8488560a2c8375df0765f78fa1fa400cfbe185824e96dba5d9b7e",
+    "bytes": 24856
+  },
+  {
+    "path": "technical/vacuum_120g/README.txt",
+    "sha256": "08f8fa8c9018e1af5488295fc8d3dfd41480442a1aa02b9eeee9ceeff70a6734",
+    "bytes": 1399
+  },
+  {
+    "path": "technical/vacuum_120g/assets/04_open_pack.png",
+    "sha256": "c7073858b19974f3f5b8bef7d53cdd39621606b3140d37628533d77a801c5013",
+    "bytes": 2277873
+  },
+  {
+    "path": "technical/vacuum_120g/assets/04_studio_shelf.png",
+    "sha256": "df1ae5f890cbe6fde9d0b0b0b1a494e0da52edd3fcb45587c1a9e8b5226df595",
+    "bytes": 2281082
+  },
+  {
+    "path": "technical/vacuum_120g/assets/OFL-OpenSans.txt",
+    "sha256": "fbbbcfef55318de350562559b671360de6d597112ecc5c73881b05092db89602",
+    "bytes": 4389
+  },
+  {
+    "path": "technical/vacuum_120g/assets/OpenSans-Bold.ttf",
+    "sha256": "fae6269da205a5ebe2c819d2da93a96d2cdc5037cf80131b0c5d87382434d34c",
+    "bytes": 203692
+  },
+  {
+    "path": "technical/vacuum_120g/assets/OpenSans-Regular.ttf",
+    "sha256": "f0118e522df706a6a11419e257a14aa6850edfadcaca11c52415abf8176fc011",
+    "bytes": 204484
+  },
+  {
+    "path": "technical/vacuum_120g/assets/OpenSans.ttf",
+    "sha256": "36643644f318a812aab2d2ed3bb98f8cf0872527f835fe9398d95fe6b9adb878",
+    "bytes": 532636
+  },
+  {
+    "path": "technical/vacuum_120g/assets/food.png",
+    "sha256": "e5f5c71c0ea970f02ec3fa75733d93cbd06241e24fd132c6d0a3a662083cbe3a",
+    "bytes": 2171278
+  },
+  {
+    "path": "technical/vacuum_120g/assets/logo.png",
+    "sha256": "297435193e600532ae8f2c9e6a65bc5b19999fff857d10bf65f28ec66a1e9e7c",
+    "bytes": 38302
+  },
+  {
+    "path": "technical/vacuum_120g/preview/03_back.png",
+    "sha256": "cc5f312da5a96a7251a1112d6992aeed8b798eb2bdf4499cb5d388cf54f92ae3",
+    "bytes": 461996
+  },
+  {
+    "path": "technical/vacuum_120g/preview/03_construction.png",
+    "sha256": "195687505e2e99a578d7c4fffa6c749bd35464ab1e03a46ba27662835baf2a8f",
+    "bytes": 253154
+  },
+  {
+    "path": "technical/vacuum_120g/preview/03_front.png",
+    "sha256": "18a28a363877ad7db969a2c738588ec180bd1d2839888ef1c2f10a77ff1667c3",
+    "bytes": 889132
+  },
+  {
+    "path": "technical/vacuum_120g/source/03_back.svg",
+    "sha256": "2227e4ed5ab6acdefa693940975d1379977e67fea73706830ef5aeab750c7403",
+    "bytes": 10021
+  },
+  {
+    "path": "technical/vacuum_120g/source/03_construction.svg",
+    "sha256": "8d9bd643455663b0e5b10bdd0f92400103ee2a1c5569dc459e44833110df9e04",
+    "bytes": 5127
+  },
+  {
+    "path": "technical/vacuum_120g/source/03_front.svg",
+    "sha256": "6cad94073715472c4c0144cd786890b64be31eb5fdbdd4501b1f65f082703100",
+    "bytes": 2951244
+  },
+  {
+    "path": "technical/vacuum_120g/source/04_shelf_prompt.txt",
+    "sha256": "3421516627b81ffc994cd3efad699ba6c41fc8b770d39ff7d9871b2fc09773bb",
+    "bytes": 1724
+  },
+  {
+    "path": "technical/vacuum_120g/source/06_AI_process.txt",
+    "sha256": "a0f4447c5a5b972de9203e07883b65b263156525f60f9e1dae0187c95fbf79c2",
+    "bytes": 2578
+  },
+  {
+    "path": "technical/vacuum_120g/source/07_prompts.csv",
+    "sha256": "b9ab5e72a96a6886d255f0c753d45f3a3fb28e3d839178bab5c659a9e9e532c8",
+    "bytes": 9871
+  },
+  {
+    "path": "technical/vacuum_120g/source/07_prompts.json",
+    "sha256": "d3c3d9f7288d1698908778edf1e0af8c78cfd41cbbcde89da784102ec2c0e581",
+    "bytes": 9768
+  },
+  {
+    "path": "technical/vacuum_120g/source/09_manufacturers.csv",
+    "sha256": "2c366c46f83740bab170ba35b86eba2640b4b0eea5a51ecb963e5edf5cfa47e8",
+    "bytes": 802
+  },
+  {
+    "path": "technical/vacuum_120g/source/build.py",
+    "sha256": "5cac97b138b09f01675ba07765cd17d9e2806828c9bc730cf377eb914afb3a46",
+    "bytes": 37551
+  },
+  {
+    "path": "technical/vacuum_120g/source/imagegen_prompts/02_open_pack_prompt.txt",
+    "sha256": "4bcc3444c776c7780ae59f5d8eb44174b5faf7573136cba59b48774f654f7be8",
+    "bytes": 1779
+  },
+  {
+    "path": "technical/vacuum_120g/source/imagegen_prompts/prompt.txt",
+    "sha256": "18ab11706714b0fbbc3d96da388b87e9869f9af1cc9be2961a29f1fc32ef545c",
+    "bytes": 4319
+  },
+  {
+    "path": "technical/vacuum_120g/source/imagegen_prompts/refinement_prompt.txt",
+    "sha256": "a08112625544e625acca2709550e7173bff0c9792cb7899b1334c8ec1b824892",
+    "bytes": 1248
+  },
+  {
+    "path": "technical/vacuum_120g/source/marking_ru_exact.txt",
+    "sha256": "7bb1adb09a9d3c9e565736955ae9ca3ec65bc23626ed968ff0862a77c7a4e82a",
+    "bytes": 944
+  },
+  {
+    "path": "technical/vacuum_120g/source/product_data.json",
+    "sha256": "864ba16387d8dbc426bb4f42ac77b3a426d3f29ece25fd8546edb9ede2d1d47d",
+    "bytes": 1307
+  },
+  {
+    "path": "technical/vacuum_120g/Комплект_для_просмотра.pdf",
+    "sha256": "d86af66b85353cbad35889094f907f4cd8b65ba0ab4cb32749882150b54974b2",
+    "bytes": 10988578
+  }
+]
