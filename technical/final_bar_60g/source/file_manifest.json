@@ -1,0 +1,182 @@
+[
+  {
+    "path": "00_Паспорт_выбранной_упаковки.pdf",
+    "bytes": 4159106,
+    "sha256": "6601b4330bdd7b546ffff3d70cb3d95246357da52849b13670662607a6d11e8c"
+  },
+  {
+    "path": "02_Концепция_60г.pdf",
+    "bytes": 22289,
+    "sha256": "35d8ccbcdd26c0bca2436ecb56b124f9401c3e6aae197c9409d359bda914e4da"
+  },
+  {
+    "path": "03_back.pdf",
+    "bytes": 33329,
+    "sha256": "03d6722dd934293716384d4795d8f7c0439fa68b626b588975c88ed2bdcd4778"
+  },
+  {
+    "path": "03_construction.pdf",
+    "bytes": 26052,
+    "sha256": "12af377bf54a3fe837c12bc3c0c7e7ee3c028ae8a57333b057d9023258d5c3e3"
+  },
+  {
+    "path": "03_front.pdf",
+    "bytes": 1993590,
+    "sha256": "358fc9c3f527079147b8fea9cb26864fb3be56c0b91d8cbc82ff2f95a7913467"
+  },
+  {
+    "path": "04_Мокапы_60г.pdf",
+    "bytes": 8338602,
+    "sha256": "5027413fd1bc6958870e88766403968e27178d8ea921905c56a3f96ecaddf336"
+  },
+  {
+    "path": "09_Запрос_производства_60г.pdf",
+    "bytes": 24957,
+    "sha256": "190f17a4fc92f3df1b47f4b74d5c9d63ec65d835abefa7fbb64452358f948183"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2099,
+    "sha256": "842b206bb8f5d366630e49a57880dff2f89032a561baea510f6519efc22bab10"
+  },
+  {
+    "path": "assets/OFL-OpenSans.txt",
+    "bytes": 4389,
+    "sha256": "fbbbcfef55318de350562559b671360de6d597112ecc5c73881b05092db89602"
+  },
+  {
+    "path": "assets/OpenSans-Bold.ttf",
+    "bytes": 203692,
+    "sha256": "fae6269da205a5ebe2c819d2da93a96d2cdc5037cf80131b0c5d87382434d34c"
+  },
+  {
+    "path": "assets/OpenSans-Regular.ttf",
+    "bytes": 204484,
+    "sha256": "f0118e522df706a6a11419e257a14aa6850edfadcaca11c52415abf8176fc011"
+  },
+  {
+    "path": "assets/OpenSans.ttf",
+    "bytes": 532636,
+    "sha256": "36643644f318a812aab2d2ed3bb98f8cf0872527f835fe9398d95fe6b9adb878"
+  },
+  {
+    "path": "assets/approved_concept.png",
+    "bytes": 2560990,
+    "sha256": "84953c9557bff0f0d0e3d8f7411263e92fe810f7657bb39e26f32dcf83a1fa22"
+  },
+  {
+    "path": "assets/final_mockup.png",
+    "bytes": 2562729,
+    "sha256": "411de72bb5229822eed654c023961985976521612625faa6796305ee9080a095"
+  },
+  {
+    "path": "assets/landscape.png",
+    "bytes": 1686585,
+    "sha256": "391df74b53494a221579ec329853eb298bffa012298443f07760c739c40ae367"
+  },
+  {
+    "path": "assets/logo.png",
+    "bytes": 38302,
+    "sha256": "297435193e600532ae8f2c9e6a65bc5b19999fff857d10bf65f28ec66a1e9e7c"
+  },
+  {
+    "path": "assets/qr_demo.png",
+    "bytes": 806,
+    "sha256": "04b0c5544244d368e8b4c298e7f8d7811810fb890eeff9df0edc3263a4143b18"
+  },
+  {
+    "path": "preview/03_back.png",
+    "bytes": 464102,
+    "sha256": "3f36daf49316811122a46ed43468732effe7f05d0ce1ea6bc143095c118043ef"
+  },
+  {
+    "path": "preview/03_construction.png",
+    "bytes": 301873,
+    "sha256": "a4038af7b78b24385abb99300d097b569cf6badacba0fbf3f95b316f21a5cc86"
+  },
+  {
+    "path": "preview/03_front.png",
+    "bytes": 953540,
+    "sha256": "a91f211390ff5ae3edb722a6cf92a8c4c16403fa20c56362f99f1b1b9feae984"
+  },
+  {
+    "path": "source/01_concept_prompt.txt",
+    "bytes": 3387,
+    "sha256": "9091ab83d65d681b5210def9e695dcf04afd6c4352ce7361533aaf10262e6b90"
+  },
+  {
+    "path": "source/02_landscape_prompt.txt",
+    "bytes": 1142,
+    "sha256": "dd501e256a7798a07be91672f54cd809edb3d3d9c8e0951f20e84f85a1fd57b7"
+  },
+  {
+    "path": "source/03_back.svg",
+    "bytes": 10489,
+    "sha256": "a28edcba85eae2705dfae64858bfac7bfe345cb0927aadb529f7488efd2f52eb"
+  },
+  {
+    "path": "source/03_construction.svg",
+    "bytes": 4283,
+    "sha256": "707163b7d52ee5c574dbf6e973ef1a362b0e8acb33f2a755d0f8b9d99acdc19a"
+  },
+  {
+    "path": "source/03_final_mockup_prompt.txt",
+    "bytes": 2728,
+    "sha256": "79ee64340d931062abe43e0639ec12da71cf001d09dc45017fe08e1e5c40d117"
+  },
+  {
+    "path": "source/03_front.svg",
+    "bytes": 2304319,
+    "sha256": "a398621e73b958ba41c352f566ae2bb37ee8138a61133bab003f95d7ed40858f"
+  },
+  {
+    "path": "source/03_white_underprint.svg",
+    "bytes": 177,
+    "sha256": "5f70d48e5ac67bd19cec616eafd9b01ce5c6251d030c34f4c75cc77b1d1fa006"
+  },
+  {
+    "path": "source/03_window_mask.svg",
+    "bytes": 172,
+    "sha256": "f9f67ef92bf2132943be357faca1867718447130d27cfad68655df122ca874be"
+  },
+  {
+    "path": "source/07_prompts.json",
+    "bytes": 7942,
+    "sha256": "fdea86484af5b1ff033c5afb50eecb2541d1984fdcf9552125365d396ca565d8"
+  },
+  {
+    "path": "source/09_manufacturers.csv",
+    "bytes": 681,
+    "sha256": "fa7859b0c378fed20d48d6ca8235490f506496b1b1b9f061dbe8831f3593ee29"
+  },
+  {
+    "path": "source/build.py",
+    "bytes": 40303,
+    "sha256": "c039315a0de7fcf143c9598bec4a14d106e2ae892852a4f45b6757329b685e7c"
+  },
+  {
+    "path": "source/product_data.json",
+    "bytes": 1701,
+    "sha256": "5635c39b092205edfc57ed42d246dc154b270fcacfe8c95d501648367606a865"
+  },
+  {
+    "path": "source/qr_spec.json",
+    "bytes": 389,
+    "sha256": "0bcaf5793f9b8608e7e3d8a042cf2334ca48c6b70f47dc48eb20e05afa7abbc2"
+  },
+  {
+    "path": "source/requirements.json",
+    "bytes": 2800,
+    "sha256": "ffda958aee0be7b118df3d631cd09d212181fc2141c46d720775459e00a3fb2e"
+  },
+  {
+    "path": "source/validation.json",
+    "bytes": 300,
+    "sha256": "6dcde634e2f8ff6eab9c76f839529b56c3fc92a1ce073a3d74c74b03fad4bdb3"
+  },
+  {
+    "path": "Финальный_вариант_60г_Комплект.pdf",
+    "bytes": 14592336,
+    "sha256": "1e14f82a278d1de15af48e2de57f20511bbb87e73bf19bd04f2f37c1e447e7bc"
+  }
+]

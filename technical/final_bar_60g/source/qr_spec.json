@@ -1,0 +1,9 @@
+{
+  "url": "https://g1gantera.github.io/hackathon-gormolzavod-qurt/",
+  "size_mm_with_quiet_zone": 30,
+  "quiet_zone_modules": 4,
+  "matrix_modules": 33,
+  "symbol_mm": 24.15,
+  "access_check": "HTTP 200, 20.10.2026",
+  "before_print": "Утвердить URL; проверить на наполненном пакете; сайт пока показывает прежний пенал"
+}

@@ -1,0 +1,10 @@
+{
+  "pdf_pages": 14,
+  "product_data_check": "passed",
+  "qr_decode": "passed",
+  "transparent_window": "passed",
+  "rendered_pages": 14,
+  "production_tests": "not performed",
+  "status": "visual inspection passed",
+  "visual_inspection": "14 rendered pages reviewed: no clipped text or overlaps"
+}
